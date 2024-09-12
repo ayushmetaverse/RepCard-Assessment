@@ -2,12 +2,14 @@
 
 This repository contains the assessment project for RepCard, showcasing two implementations of the same layout using different frameworks.
 
+## Demo
+
+![Demo](GIF-2024-09-12-14-07-20.gif)  <!-- Replace with the actual path to your GIF -->
+
 ## Projects Included
 
-- RepCard-Assessment-SwiftUI
-
-- RepCard-Assessment-UIKit
-
+- **RepCard-Assessment-SwiftUI**
+- **RepCard-Assessment-UIKit**
 
 ## Overview
 
@@ -35,4 +37,3 @@ For any contributions or issues, please reach out to the repository author: [ayu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
