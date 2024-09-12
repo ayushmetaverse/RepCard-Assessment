@@ -4,12 +4,9 @@ This repository contains the assessment project for RepCard, showcasing two impl
 
 ## Projects Included
 
-### RepCard-Assessment-SwiftUI
+- RepCard-Assessment-SwiftUI
 
-- **Latest Commit**: d9c60fb
-- **Author**: ayushmetaverse
-
-### RepCard-Assessment-UIKit
+- RepCard-Assessment-UIKit
 
 
 ## Overview
